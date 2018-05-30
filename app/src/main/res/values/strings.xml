@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoinPotFaucets</string>
+    <string name="WELCOME">WELCOME</string>
+    <string name="bitfun">Bitfun</string>
+    <string name="howtoclaimfaucet">HowToClaimFaucet</string>
+    <string name="how_to_claim_coinpot_faucet">How To Claim CoinPot Faucet</string>
+    <string name="description_txt">Click on The CoinPot Button to Create an Account on CoinPotFaucet
+        With Your Email Address or Your Wallet Address, But it\'s Advisable to Use Your
+        Email Address After That Use The Same Email Address to Register your Account
+        on BitFun, BonusBitcoin, MoonBitcoin, MoonLitecoin, MoonDoge, MoonDash, MoonCash. After Doing All of This Then You\'re Set Start Cliaming Your Free Coins and When You Get to The Minimum Withdrawal Level You Can Transfer Your Coin to Your private Wallet Where Your Coin Will be Safe. You Can Download FreeWallet on AppStore or PlayStore. There's also a CoinPot Token Which is Alocated to you each time you Claim,
+        This CoinPot Token is not Withdrawable but you Exchange it to any of the Listed Coin Above.</string>
+</resources>

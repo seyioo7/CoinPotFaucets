@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Faucet"
+    android:background="@drawable/coinpot"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bitFunBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bitfun" />
+
+    <Button
+        android:id="@+id/bonusBitcoinBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bonusbitcoin" />
+
+    <Button
+        android:id="@+id/moonBitcoinBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MoonBitcoin" />
+
+    <Button
+        android:id="@+id/moonLitecoinBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="moonLitecoin" />
+
+    <Button
+        android:id="@+id/moonDogecoinBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="moonDogecoin" />
+
+    <Button
+        android:id="@+id/moonDashBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="moonDash" />
+
+    <Button
+        android:id="@+id/moonCashBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="moonCash" />
+
+    <Button
+        android:id="@+id/CoinPotBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CoinPot" />
+
+    </LinearLayout>
+
+</LinearLayout>
